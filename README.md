@@ -6,6 +6,11 @@ You must have in mind that until this moment the project was not tested. Pay att
 I hope that it can works with this weight.
 
 
+SolidWorks Design
+
+![alt tag](https://github.com/HawKoder/Hexapod/blob/master/Spider%20Real.JPG)
+
+3D Printed Droid
 
 
 ![alt tag](https://github.com/HawKoder/Hexapod/blob/master/Spider%20Real.JPG)
