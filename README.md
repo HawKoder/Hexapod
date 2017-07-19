@@ -13,4 +13,4 @@ SolidWorks Design
 3D Printed Droid
 
 
-![alt tag](https://github.com/HawKoder/Hexapod/blob/master/Spider%20Real.JPG)
+![alt tag](https://github.com/HawKoder/Hexapod/blob/master/IMG_20170525_204451_HDR.jpg)
